@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/WING.png" alt="PWCoop: co-op for Project Wingman" width="100%">
+
 # ✈️ PWCoop
 
 ### Steam co-op for **Project Wingman**
