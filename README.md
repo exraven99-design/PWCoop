@@ -33,6 +33,18 @@ Fly together with a Steam friend: partner aircraft, shared enemies, shared kills
 | 🗺️ **Missions + Free Flight** | Story missions and Free Flight both work (with limitations, see below) |
 | 🌍 **8 languages** | Menu texts localized |
 
+## Screenshots
+
+<p align="center">
+  <img src="https://staticdelivery.nexusmods.com/mods/3551/images/873/873-1792327154-1264024287.png" width="85%" alt="In flight: partner's missile trail and HUD"><br>
+  <sub>In flight with the partner: missile trail, name tag and HUD</sub>
+</p>
+<p align="center">
+  <img src="https://staticdelivery.nexusmods.com/mods/3551/images/873/873-1792327154-1934007435.png" width="48%" alt="Main menu with co-op status">
+  <img src="https://staticdelivery.nexusmods.com/mods/3551/images/873/873-1792327160-1610792577.png" width="48%" alt="Main menu with invite notification">
+  <br><sub>Co-op in the main menu: friend invites and status notifications</sub>
+</p>
+
 ## Install
 
 1. Download `PWCoop_Setup_0.2.0.zip` from [Releases](https://github.com/exraven99-design/PWCoop/releases/latest) (or from [Nexus Mods](https://www.nexusmods.com/projectwingman/mods/873)).
