@@ -36,6 +36,10 @@ Fly together with a Steam friend: partner aircraft, shared enemies, shared kills
 ## Screenshots
 
 <p align="center">
+  <img src="docs/hangar-ready.webp" width="85%" alt="Hangar with co-op ready button and partner status"><br>
+  <sub>Hangar: LAUNCH works as a co-op ready button, the partner's name and READY status are shown top right</sub>
+</p>
+<p align="center">
   <img src="https://staticdelivery.nexusmods.com/mods/3551/images/873/873-1792327154-1264024287.png" width="85%" alt="In flight: partner's missile trail and HUD"><br>
   <sub>In flight with the partner: missile trail, name tag and HUD</sub>
 </p>
