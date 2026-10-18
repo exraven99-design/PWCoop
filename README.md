@@ -38,6 +38,10 @@ Fly together with a Steam friend: partner aircraft, shared enemies, shared kills
 ## Screenshots
 
 <p align="center">
+  <img src="docs/flight-partner.jpg" width="85%" alt="Partner's aircraft with afterburner, name tag and health line"><br>
+  <sub>The partner's aircraft with afterburner, name tag with distance and the health line under TOTAL SCORE</sub>
+</p>
+<p align="center">
   <img src="docs/hangar-ready.webp" width="85%" alt="Hangar with co-op ready button and partner status"><br>
   <sub>Hangar: LAUNCH works as a co-op ready button, the partner's name and READY status are shown top right</sub>
 </p>
