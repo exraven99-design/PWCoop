@@ -2,6 +2,9 @@
 
 Unofficial fan mod. Written with AI assistance. Source of everything that ships in `PWCoop_Setup_*.zip`.
 
+## Download
+Ready-to-use build: [Releases → v0.2.0](https://github.com/exraven99-design/PWCoop/releases/tag/v0.2.0) (`PWCoop_Setup_0.2.0.zip`). Also on Nexus Mods: https://www.nexusmods.com/projectwingman/mods/873
+
 ## What is in this repository
 | Path | What it is |
 |---|---|
